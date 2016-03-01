@@ -686,7 +686,7 @@
                         </text>
                     </g>
                     <g id="BtnNewMessage" transform="translate(23.000000, 110.000000)">
-                        <rect id="Rectangle-3" fill="#EA6374" sketch:type="MSShapeGroup" x="0" y="0" width="196" height="44" rx="2"></rect>
+                        <rect id="Rectangle-3" fill="#4990E2" sketch:type="MSShapeGroup" x="0" y="0" width="196" height="44" rx="2"></rect>
                         <g id="IcoCompose" transform="translate(17.000000, 12.000000)">
                             <mask id="mask-59" sketch:name="SVGID_121_" fill="white">
                                 <use xlink:href="#path-58"></use>
@@ -699,9 +699,9 @@
                     </g>
                 </g>
             </g>
-            <rect id="Rectangle-15" fill="#E96474" sketch:type="MSShapeGroup" x="0" y="0" width="240" height="36"></rect>
-            <text id="FINCH-MAIL" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="#FFFFFF">
-                <tspan x="73" y="25">FINCH MAIL</tspan>
+            <rect id="Rectangle-15" fill="#4990E2" sketch:type="MSShapeGroup" x="0" y="0" width="240" height="36"></rect>
+            <text id="FINCH" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="95" y="25">FINCH</tspan>
             </text>
         </g>
         <g id="Master-Artboard" sketch:type="MSArtboardGroup"></g>
